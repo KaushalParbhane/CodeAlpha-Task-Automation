@@ -1,0 +1,9 @@
+
+    Welcome to CodeAlpha Task Automation Demo!
+    Here are some sample contact points:
+    For support, reach out to support@codealpha.tech or helpdesk@example.com.
+    You can also contact kaushal.dev@domain.org, or admin@company.co.in.
+    Duplicate contact: support@codealpha.tech (should be deduplicated).
+    Invalid emails to ignore: not_an_email, @missinguser.com, user@.com, test@domain.
+    End of sample document.
+    

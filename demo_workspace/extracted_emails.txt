@@ -1,0 +1,4 @@
+admin@company.co.in
+helpdesk@example.com
+kaushal.dev@domain.org
+support@codealpha.tech
